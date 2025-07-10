@@ -1,0 +1,20 @@
+{
+  "name": "smart-security",
+  "version": "1.0.0",
+  "description": "Group 17 and 18\r # Smart security",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/der43eryks/ui-homesecurity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/der43eryks/ui-homesecurity/issues"
+  },
+  "homepage": "https://github.com/der43eryks/ui-homesecurity#readme"
+}
